@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @nasyrovt Nasyrov Takhir
 - 👀 I’m interested in Sowftware Development, Gameplay Development, Game Engine Development
 - 🌱 I’m currently learning Informatics in University Grenoble Alpes
-- 💞️ I’m looking for an internship in Sowftware Development
+- 💞️ I’m looking for an internship in Game and Sowftware Development
 - 📫 You can reach me tahanasyrov@gmail.com
 
-I am a Game and Software Developer  seaking for an  internship. Having excellent communication, management, and problem-solving skills, I'm good at finding reliable solutions for atypical problems.
+I am a Game and Software Developer seaking for an  internship. Having excellent communication, management, and problem-solving skills, I'm good at finding reliable solutions for atypical problems.
 
 <div>
    <a href="https://github.com/anuraghazra/github-readme-stats">
