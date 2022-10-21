@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @nasyrovt Nasyrov Takhir
 - 👀 I’m interested in Sowftware Development, Gameplay Development, Game Engine Development
-- 🌱 I’m currently learning Informatics in University Grenoble Alpes
-- 💞️ I’m looking for an internship in Game and Sowftware Development
+- 🌱 I’m currently learning Game Programming in Lyon YNOV Campus
+- 💞️ Game Engine Developer in Cabrilog (BabylonJS, Qt, OpenGL)
 - 📫 You can reach me tahanasyrov@gmail.com
 
-I am a Game and Software Developer seaking for an  internship. 
+I am a Game and Software Developer. 
 Having excellent communication, management, and problem-solving skills, I'm good at finding reliable solutions for atypical problems.
 
 <div>
