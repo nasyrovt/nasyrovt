@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nasyrovt Nasyrov Takhir
 - 👀 I’m interested in Sowftware Development, Gameplay Development, Game Engine Development
 - 🌱 I’m currently learning Game Programming in Lyon YNOV Campus
-- 💞️ Game Engine Developer in Cabrilog (BabylonJS, Qt, OpenGL)
+- 💞️ Gameplay Developer in DigixArt (UnrealEngine, C++)
 - 📫 You can reach me tahanasyrov@gmail.com
 
 I am a Game and Software Developer. 
